@@ -14,7 +14,7 @@ ___
 
 *They support every major platform, including desktops, mobile devices, smart TVs, streaming devices, and gaming consoles, providing an opportunity to work across platforms and teams to push Plex forward.*
 
-* This involves software engineers who are ready to push their limits and have a material impact in [Plex’s]https://www.plex.com/ growth and success.
+* This involves software engineers who are ready to push their limits and have a material impact in [Plex’s](https://www.plex.com/) growth and success.
 
 **Familiarity with CSS, HTML, and front-end templating languages.**
 
